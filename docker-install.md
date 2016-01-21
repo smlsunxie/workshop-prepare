@@ -15,7 +15,8 @@ sudo apt-get install docker-engine
 
 ```
 sudo groupadd docker
-sudo usermod -a -G docker {username}
+sudo usermod -a -G docker `whoami`
+sudo usermod -a -G docker jenkins
 sudo service docker.io restart
 ```
 
