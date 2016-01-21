@@ -16,7 +16,6 @@ node js sample project install
 透過 nvm 來進行 NodeJS 安裝，指令如下：
 
 ```
-sudo su jenkins
 touch ~/.bashrc
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash
 ```
