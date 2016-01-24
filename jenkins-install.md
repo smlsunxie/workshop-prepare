@@ -4,11 +4,12 @@ jenkins install
 安裝 Java 軟體
 --------------
 
-建議使用 JDK 1.7 以上版本。
+### 安裝 java 8 & maven
 
 ```
+sudo add-apt-repository ppa:openjdk-r/ppa
 sudo apt-get update
-sudo apt-get install openjdk-7-jdk
+sudo apt-get install openjdk-8-jdk
 sudo apt-get install maven
 ```
 
