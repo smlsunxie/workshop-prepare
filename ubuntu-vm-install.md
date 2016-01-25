@@ -12,3 +12,11 @@ Virtual Box install ubuntu 14.04
 --------------------------------
 
 [ubuntu 14.04 install](http://blog.xuite.net/yh96301/blog/289817657-Ubuntu+14.04%E5%AE%89%E8%A3%9DVirtualBox+4.3.20)
+
+安裝必要套件
+------------
+
+```
+sudo apt-get install openssh-server
+sudo apt-get install git
+```
