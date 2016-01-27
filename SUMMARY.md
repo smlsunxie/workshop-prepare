@@ -2,6 +2,7 @@ Summary
 =======
 
 -	[ubuntu 14.04 vm install](ubuntu-vm-install.md)
+-	[ssh setup](ssh.md)
 -	[Jenkins install](jenkins-install.md)
 -	[Docker install](docker-install.md)
 -	[Docker images pull](docker-images-pull.md)
